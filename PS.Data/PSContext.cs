@@ -7,7 +7,7 @@ using PS.Domain;
 namespace PS.Data
 {
     public class PSContext :DbContext
-    {
+    {   
         public DbSet<Product> Products{ get; set; }
         public DbSet<Provider> Providers{ get; set; }
         public DbSet<Category> Categories{ get; set; }
@@ -18,6 +18,14 @@ namespace PS.Data
         {
 
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
 
+            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;
+                                        Initial Catalog=ProductStoreDB;
+                                        Integrated Security=true;
+                                        MultipleActiveResultSets=true");
+            base.OnConfiguring(optionsBuilder);
+        }
     }
 }
