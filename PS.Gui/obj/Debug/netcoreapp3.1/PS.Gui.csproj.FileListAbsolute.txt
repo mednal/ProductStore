@@ -1,0 +1,34 @@
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.exe
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.deps.json
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.runtimeconfig.json
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.dll
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.pdb
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\HP\source\repos\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.CopyComplete
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.dll
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.pdb
+C:\Users\HP\source\repos\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.genruntimeconfig.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.exe
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.deps.json
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.runtimeconfig.json
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.runtimeconfig.dev.json
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Gui.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.AssemblyInfo.cs
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.csproj.CopyComplete
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.Gui\obj\Debug\netcoreapp3.1\PS.Gui.genruntimeconfig.cache

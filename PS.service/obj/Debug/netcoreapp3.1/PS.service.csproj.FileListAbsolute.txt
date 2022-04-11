@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.deps.json
+C:\Users\HP\source\repos\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.dll
+C:\Users\HP\source\repos\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.pdb
+C:\Users\HP\source\repos\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\HP\source\repos\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.CopyComplete
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.dll
+C:\Users\HP\source\repos\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.deps.json
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.service.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.AssemblyInfo.cs
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.csproj.CopyComplete
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.dll
+C:\Users\HP\Desktop\esp 4Twin 2\.NET\product store\ProductStore\PS.service\obj\Debug\netcoreapp3.1\PS.service.pdb
